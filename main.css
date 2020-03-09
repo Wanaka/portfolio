@@ -35,6 +35,11 @@ a { color: inherit; }
     color: white;
 }
 
+.tech-stack{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
 .margin-top-50 { margin-top: 50px; }
 .name-title { font-size: 46px;  }
 .roboto-font{ font-family: 'Roboto' ; }
